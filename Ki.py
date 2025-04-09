@@ -12,7 +12,7 @@ SPIN_URL = "https://zero-api.kaisar.io/lucky/spin"
 CONVERT_URL = "https://zero-api.kaisar.io/lucky/convert"
 
 # Request User for Auth Token
-auth_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2Y0YTFhNDRjMTMwMmNiMjljODU2ODIiLCJpZCI6IjY3ZjRhMWE0NGMxMzAyY2IyOWM4NTY4MiIsInJvbGUiOiJ1c2VyIiwic3RhdHVzIjoxLCJpYXQiOjE3NDQwODU3NjIsImV4cCI6MTc3NTY0MzM2Mn0.mmUgsQ5W0N_C08HtQPQGiYcKzyw-NDvbKPQu5XdIeTk"
+auth_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2VlMzUxY2Y1NmRjOGQwOWEzNGZkMTYiLCJpZCI6IjY3ZWUzNTFjZjU2ZGM4ZDA5YTM0ZmQxNiIsInJvbGUiOiJ1c2VyIiwic3RhdHVzIjoxLCJpYXQiOjE3NDM2NjQ0MTIsImV4cCI6MTc3NTIyMjAxMn0.ceAvt4HE0OcxBMpxsfr3T2O-D9ub3LfBzsu2eukWQxM"
 HEADERS = {
     "accept": "*/*",
     "accept-encoding": "gzip, deflate, br, zstd",
