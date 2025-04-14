@@ -176,7 +176,9 @@ def spin():
             
         except Exception as e:
             print(f"{RED}Error processing spin result: {str(e)}{WHITE}")
-            time.sleep(5)
+            time.sleep(2)
+            getspin()
+            getspin1()
             continue
 
 def getspin():
